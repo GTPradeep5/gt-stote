@@ -7,7 +7,7 @@ import Mainbar from './components/Mainbar'
 import SideNavPage from './components/SideNavPage'
 
 
-function App() {
+function App() { 
   return (
     <React.Fragment>
       
